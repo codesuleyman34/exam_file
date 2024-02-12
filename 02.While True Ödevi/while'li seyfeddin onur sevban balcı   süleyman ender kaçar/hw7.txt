@@ -1,0 +1,2 @@
+iki sayı istenecek  
+girilen iki sayı'nın arasındaki sayıların ortalaması bulunacak.

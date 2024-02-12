@@ -1,0 +1,14 @@
+kilo boy isticez
+kilo/(boy*boy) yapcaz
+
+eğer 17-25 arası ise normal 
+
+eğer 26-30 arasında ise kilolu
+
+eğer 31-35 arasında ise obez
+
+eğer 36'dan fazla ise ciddi obez
+
+
+
+

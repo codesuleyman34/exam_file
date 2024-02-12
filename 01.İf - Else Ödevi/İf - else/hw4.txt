@@ -1,0 +1,4 @@
+iki ürün  fiyatı istenecek 
+eğer 200 TL'den az ise normal fiyat 
+
+eğr 200 TL'den falza ise %25 indirim uygulanacak

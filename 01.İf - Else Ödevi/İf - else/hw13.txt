@@ -1,0 +1,6 @@
+maaşınızı isticez
+kaç yıl çalıştıklarını isticez
+
+eğer 1-5 arasıysa %10 zam
+eğer 6-10 arasıysa %15 zam
+eğer 11 ve fazlaysa %20

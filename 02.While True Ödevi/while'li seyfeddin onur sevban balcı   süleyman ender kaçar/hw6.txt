@@ -1,0 +1,1 @@
+2 sayı girilecek bu girilen iki sayı arasındaki sayılar toplanılacak.

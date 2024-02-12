@@ -1,0 +1,2 @@
+3 sayı isticez
+en büyüğünü gösterecğiz

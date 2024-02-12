@@ -1,0 +1,2 @@
+60 1'er 1'er 30'a kadar (30 dahil değil) azalacak
+eğer 30 olursa program duracak

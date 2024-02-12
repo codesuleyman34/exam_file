@@ -1,0 +1,7 @@
+sineama veya tiyatroya gideceklerini soracağız
+öğrencimi tam mı diyi soracağız
+
+eğer sinema ve tam ise 15
+eğer sineama ve öğrenci ise 7.5
+eğer tiyatro ve tam ise 10
+eğer tiyatro ve öğrenci ise 5

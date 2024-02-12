@@ -1,0 +1,2 @@
+1-20 arası 2 sayı giriniz bu girilen iki sayının toplamı alınacak (20 dahil)
+

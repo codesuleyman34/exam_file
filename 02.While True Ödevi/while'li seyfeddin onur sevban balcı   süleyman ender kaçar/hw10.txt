@@ -1,0 +1,3 @@
+şifre girilecek 
+eğer şifre python ise giriş yapılacak
+değil ise yapıılmıcak

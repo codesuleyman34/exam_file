@@ -1,0 +1,5 @@
+bagaj kilosu istenecek 
+
+eğer bagaj kilosu yirmi ve yirmi'den küçük ise belej
+
+eğer yirmiden fazlaysa her kilo  başına 10 tl ücret kesilecek

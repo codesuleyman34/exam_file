@@ -1,0 +1,4 @@
+kullanıcı adı ve şifre istenecek
+
+eğer kullanıcı adı Türkiye ve şifre 1923 ise giriş yaptınız 
+eğer değil ise giriş yapamadınız

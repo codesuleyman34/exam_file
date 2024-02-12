@@ -1,0 +1,3 @@
+2 sınav notu istenecek
+1 pergormans notu istenecek
+3'nün ortalaması gözüükecek

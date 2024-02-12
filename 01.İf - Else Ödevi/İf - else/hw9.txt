@@ -1,0 +1,4 @@
+hava sıcaklığı isticez
+eğer 5'den küçük ise soğuk
+eğer 6-14 arası ılık
+eğer 15'den fazla ise sıcak

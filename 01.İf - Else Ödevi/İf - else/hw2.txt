@@ -1,0 +1,4 @@
+üc tane açı istenecek  
+
+eğer toplam 180 ise üçgendir 
+değilse üçgen değildir

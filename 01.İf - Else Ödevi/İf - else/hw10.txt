@@ -1,0 +1,5 @@
+otoparkta kaç saat kaldığını isticez
+
+eğer 1 saat ise 5 tl
+eğer 2-5 saat ise saat başı 4 tl
+eğer 5'den fazla ise saat başı 3 tl

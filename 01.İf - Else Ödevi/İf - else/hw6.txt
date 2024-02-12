@@ -1,0 +1,3 @@
+bi sayı isticez
+eğer 15'e bölünüyo ise 15'e bölünür
+eğre bölünmez ise 15'e bölünmez

@@ -1,0 +1,3 @@
+işlemci ve ram istenecek 
+eğer ram 8 ve 8'den fazla ise ve işlemci i7 yse kurulum yapılır
+eğre değilise kurulum yapılmaz

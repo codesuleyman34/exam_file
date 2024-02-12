@@ -1,0 +1,8 @@
+3 tane üçgen kenar'ı istenecek 
+
+
+hepsi eşit ise eşkenar 
+
+ikisi eşit ise ikiz kenar
+
+hapsi farklı ise çeşitkenar
